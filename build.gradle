@@ -27,6 +27,7 @@ dependencies {
 
 	implementation 'com.graphql-java:graphql-java:17.2'
 	implementation 'net.datafaker:datafaker:1.7.0'
+	implementation 'org.apache.commons:commons-lang3:3.12.0'
 }
 
 tasks.named('test') {
